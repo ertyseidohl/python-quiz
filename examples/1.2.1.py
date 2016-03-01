@@ -1,5 +1,4 @@
-def print_twice(to_print):
-	print (to_print)
-	print (to_print)
+def printNumber(5):
+	print(number)
 	
-print_twice("hello!")
+printNumber(5)
